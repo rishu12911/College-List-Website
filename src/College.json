@@ -1,0 +1,243 @@
+[
+    {
+      "university_name": "Jammu University 1",
+      "fees": 20000,
+      "average_ctc": 60000,
+      "rating_out_of_10": 8.5,
+      "world_ranking": 50,
+      "feature_value": true
+    },
+    {
+      "university_name": "Jamshedpur University 2",
+      "fees": 25000,
+      "average_ctc": 58000,
+      "rating_out_of_10": 8.2,
+      "world_ranking": 65,
+      "feature_value": false
+    },
+    {
+      "university_name": "Ranchi University 3",
+      "fees": 18000,
+      "average_ctc": 62000,
+      "rating_out_of_10": 9.0,
+      "world_ranking": 40,
+      "feature_value": true
+    },
+    {
+      "university_name": "Delhi University 4",
+      "fees": 30000,
+      "average_ctc": 55000,
+      "rating_out_of_10": 7.8,
+      "world_ranking": 80,
+      "feature_value": true
+    },
+    {
+      "university_name": "Pune University 5",
+      "fees": 22000,
+      "average_ctc": 63000,
+      "rating_out_of_10": 8.7,
+      "world_ranking": 55,
+      "feature_value": false
+    },
+    {
+      "university_name": "Bangalore University 6",
+      "fees": 28000,
+      "average_ctc": 57000,
+      "rating_out_of_10": 7.5,
+      "world_ranking": 90,
+      "feature_value": true
+    },
+    {
+      "university_name": "Jharkhand University 7",
+      "fees": 21000,
+      "average_ctc": 64000,
+      "rating_out_of_10": 8.9,
+      "world_ranking": 45,
+      "feature_value": false
+    },
+    {
+      "university_name": "Presidency College 8",
+      "fees": 32000,
+      "average_ctc": 54000,
+      "rating_out_of_10": 7.3,
+      "world_ranking": 100,
+      "feature_value": true
+    },
+    {
+      "university_name": "Up University 9",
+      "fees": 19000,
+      "average_ctc": 61000,
+      "rating_out_of_10": 9.2,
+      "world_ranking": 35,
+      "feature_value": true
+    },
+    {
+      "university_name": "Loyal University 10",
+      "fees": 23000,
+      "average_ctc": 59000,
+      "rating_out_of_10": 8.0,
+      "world_ranking": 70,
+      "feature_value": false
+    },
+    {
+      "university_name": "Madras University 11",
+      "fees": 27000,
+      "average_ctc": 56000,
+      "rating_out_of_10": 7.6,
+      "world_ranking": 85,
+      "feature_value": true
+    },
+    {
+      "university_name": "Ginger University 12",
+      "fees": 20000,
+      "average_ctc": 63000,
+      "rating_out_of_10": 8.8,
+      "world_ranking": 60,
+      "feature_value": false
+    },
+    {
+      "university_name": "Rowdy University 13",
+      "fees": 29000,
+      "average_ctc": 55000,
+      "rating_out_of_10": 7.2,
+      "world_ranking": 110,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 14",
+      "fees": 18000,
+      "average_ctc": 62000,
+      "rating_out_of_10": 9.1,
+      "world_ranking": 42,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 15",
+      "fees": 33000,
+      "average_ctc": 53000,
+      "rating_out_of_10": 7.1,
+      "world_ranking": 120,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 16",
+      "fees": 21000,
+      "average_ctc": 65000,
+      "rating_out_of_10": 9.0,
+      "world_ranking": 38,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 17",
+      "fees": 25000,
+      "average_ctc": 57000,
+      "rating_out_of_10": 7.8,
+      "world_ranking": 75,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 18",
+      "fees": 28000,
+      "average_ctc": 54000,
+      "rating_out_of_10": 8.5,
+      "world_ranking": 58,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 19",
+      "fees": 19000,
+      "average_ctc": 61000,
+      "rating_out_of_10": 8.6,
+      "world_ranking": 52,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 20",
+      "fees": 30000,
+      "average_ctc": 56000,
+      "rating_out_of_10": 7.3,
+      "world_ranking": 95,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 21",
+      "fees": 22000,
+      "average_ctc": 64000,
+      "rating_out_of_10": 8.9,
+      "world_ranking": 48,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 22",
+      "fees": 26000,
+      "average_ctc": 58000,
+      "rating_out_of_10": 7.7,
+      "world_ranking": 82,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 23",
+      "fees": 17000,
+      "average_ctc": 63000,
+      "rating_out_of_10": 9.3,
+      "world_ranking": 30,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 24",
+      "fees": 31000,
+      "average_ctc": 55000,
+      "rating_out_of_10": 7.0,
+      "world_ranking": 130,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 25",
+      "fees": 20000,
+      "average_ctc": 65000,
+      "rating_out_of_10": 8.3,
+      "world_ranking": 62,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 26",
+      "fees": 29000,
+      "average_ctc": 57000,
+      "rating_out_of_10": 7.4,
+      "world_ranking": 88,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 27",
+      "fees": 18000,
+      "average_ctc": 62000,
+      "rating_out_of_10": 8.7,
+      "world_ranking": 55,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 28",
+      "fees": 33000,
+      "average_ctc": 54000,
+      "rating_out_of_10": 6.9,
+      "world_ranking": 140,
+      "feature_value": false
+    },
+    {
+      "university_name": "Example University 29",
+      "fees": 21000,
+      "average_ctc": 65000,
+      "rating_out_of_10": 8.8,
+      "world_ranking": 47,
+      "feature_value": true
+    },
+    {
+      "university_name": "Example University 30",
+      "fees": 24000,
+      "average_ctc": 59000,
+      "rating_out_of_10": 8.1,
+      "world_ranking": 68,
+      "feature_value": false
+    }
+  ]
+  
